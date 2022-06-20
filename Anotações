@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alteração em outra brench</title>
+</head>
+<body>
+    <p>Códigos para fazer login no git pelo vscode:</br>
+    git config user.name = "LuizNunes180106"</br>
+    git config user.email = "Luiz.nunes180106@gmail.com"</p>
+
+        Hello World!
+        Testes realizados em outra brench
+</body>
+</html>
